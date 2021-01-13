@@ -28,7 +28,7 @@
     },
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Shop",
             "url": "/store",
             "style": "link"
         },
